@@ -1,3 +1,9 @@
+# An illustration of the inductive part of the proof for the birkoff-von neumann theorem.
+# This code demonstrate how a matrix M with all line sums equal can be decomposed into a sum of permutation matrices,
+# by treating M as an adjacency matrix for a bipartite graph (with the rows and cols forming the bipartition). This graph 
+# can then be found to have a perfect matching, which corresponds to a permutation matrix, which can in turn weighted and
+# subtracted from M. This process can be continued until we have a full decomposition of M.
+
 import math # Useful maths
 import networkx as nx  # Graph/networks package
 
