@@ -1,3 +1,3 @@
-# Projects
+# Thesis
 
-#### Some of the projects I have attempted, both within and outside of my studies :). 
+#### Some of the projects I completed as part of my thesis :). 
